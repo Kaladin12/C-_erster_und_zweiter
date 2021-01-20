@@ -1,0 +1,10 @@
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\bin\Release\Trivia_1.exe.config
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\bin\Release\Trivia_1.exe
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\bin\Release\Trivia_1.pdb
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\obj\Release\Trivia_1.csprojAssemblyReference.cache
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\obj\Release\Trivia_1.Form1.resources
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\obj\Release\Trivia_1.Properties.Resources.resources
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\obj\Release\Trivia_1.csproj.GenerateResource.cache
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\obj\Release\Trivia_1.csproj.CoreCompileInputs.cache
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\obj\Release\Trivia_1.exe
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia_1\Trivia_1\obj\Release\Trivia_1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia\Trivia\obj\Debug\Trivia.csprojAssemblyReference.cache
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia\Trivia\obj\Debug\Jeopardy_.JEOPARDY.resources
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia\Trivia\obj\Debug\Trivia.Properties.Resources.resources
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia\Trivia\obj\Debug\Trivia.csproj.GenerateResource.cache
+C:\Users\Elian Cruz\Documents\MEGA\CETYS\C++\Trivia\Trivia\obj\Debug\Trivia.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+﻿  GOFISH.cpp
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GOFISH\GOFISH.cpp(192,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GOFISH\GOFISH.cpp(192,12): warning C4244: C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GOFISH\GOFISH.cpp(153) : warning C4715: 'suma': no todas las rutas de acceso de control devuelven un valor
+  GOFISH.vcxproj -> C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GOFISH\Debug\GOFISH.exe

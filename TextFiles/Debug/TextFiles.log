@@ -1,0 +1,6 @@
+﻿  TextFiles.cpp
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\TextFiles\TextFiles.cpp(18,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\TextFiles\TextFiles.cpp(79,30): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\TextFiles\TextFiles.cpp(88,30): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\TextFiles\TextFiles.cpp(97,30): warning C4018:  '<': no coinciden signed/unsigned
+  TextFiles.vcxproj -> C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\TextFiles\Debug\TextFiles.exe

@@ -1,0 +1,5 @@
+﻿  Apuntadores.cpp
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\Apuntadores\Apuntadores.cpp(21,21): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\Apuntadores\Apuntadores.cpp(22,25): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\Apuntadores\Apuntadores.cpp(22,25): warning C4244: C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\Apuntadores\Apuntadores.cpp(24) : warning C4172: devolución de dirección de la variable local o temporal: Datos
+  Apuntadores.vcxproj -> C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\Apuntadores\Debug\Apuntadores.exe

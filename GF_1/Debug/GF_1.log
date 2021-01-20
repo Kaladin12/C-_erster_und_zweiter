@@ -1,0 +1,79 @@
+﻿  GF_1.cpp
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,2): error C2059:  error de sintaxis: 'for'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,21): error C2143:  error de sintaxis: falta ')' delante de ';'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,30): error C2143:  error de sintaxis: falta ';' delante de '<'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,30): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,48): error C2143:  error de sintaxis: falta ';' delante de '++'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,48): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,48): error C2086:  'int indice': nueva definición
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129): message :  vea la declaración de 'indice'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,50): error C2059:  error de sintaxis: ')'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,51): error C2143:  error de sintaxis: falta ';' delante de '{'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129,51): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,2): error C2059:  error de sintaxis: 'for'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,21): error C2143:  error de sintaxis: falta ')' delante de ';'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,30): error C2143:  error de sintaxis: falta ';' delante de '<'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,30): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,30): error C2086:  'int indice': nueva definición
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129): message :  vea la declaración de 'indice'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,48): error C2143:  error de sintaxis: falta ';' delante de '++'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,48): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,48): error C2086:  'int indice': nueva definición
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(129): message :  vea la declaración de 'indice'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,50): error C2059:  error de sintaxis: ')'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,52): error C2143:  error de sintaxis: falta ';' delante de '{'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(136,52): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(138,8): error C2143:  error de sintaxis: falta ';' delante de '<<'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(138,8): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(139,1): error C2059:  error de sintaxis: '}'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(139,1): error C2143:  error de sintaxis: falta ';' delante de '}'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(140,47): error C2143:  error de sintaxis: falta ';' delante de '{'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(140,47): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(220,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(223,8): error C2872:  'cout': símbolo ambiguo
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(138,3): message :  puede ser 'int cout'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\iostream(29,57): message :  o       'std::ostream std::cout'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(223,98): error C2297:  '<<': no es válido; el operando derecho es de tipo 'const char [82]'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(223,8): warning C4552:  "<<": el resultado de la expresión no se usa
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(227,4): error C3861:  'Combinaciones': no se encontró el identificador
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(228,9): error C2872:  'cout': símbolo ambiguo
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(138,3): message :  puede ser 'int cout'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\iostream(29,57): message :  o       'std::ostream std::cout'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(228,79): error C2297:  '<<': no es válido; el operando derecho es de tipo 'const char [63]'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(228,9): warning C4552:  "<<": el resultado de la expresión no se usa
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(230,10): error C2872:  'cout': símbolo ambiguo
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(138,3): message :  puede ser 'int cout'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\iostream(29,57): message :  o       'std::ostream std::cout'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(230,96): error C2297:  '<<': no es válido; el operando derecho es de tipo 'const char [80]'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(230,96): error C2677:  '<<' binario: no se encontró un operador global que adopte el tipo 'std::string' (o bien no existe una conversión aceptable)
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(235,5): error C3861:  'Combinaciones': no se encontró el identificador
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(238,5): error C3861:  'Combinaciones': no se encontró el identificador
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(241,25): error C2872:  'cout': símbolo ambiguo
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(138,3): message :  puede ser 'int cout'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\iostream(29,57): message :  o       'std::ostream std::cout'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(241,63): error C2297:  '<<': no es válido; el operando derecho es de tipo 'const char [33]'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(241,70): error C2563:  hay una falta de correspondencia en la lista de parámetros formales
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(241,70): error C2568:  '<<': no se puede resolver la sobrecarga de funciones
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(241,70): message :  puede ser 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(244,6): error C3861:  'Combinaciones': no se encontró el identificador
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(245,11): error C2872:  'cout': símbolo ambiguo
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(138,3): message :  puede ser 'int cout'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\iostream(29,57): message :  o       'std::ostream std::cout'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(245,97): error C2297:  '<<': no es válido; el operando derecho es de tipo 'const char [80]'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(245,97): error C2677:  '<<' binario: no se encontró un operador global que adopte el tipo 'std::string' (o bien no existe una conversión aceptable)
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(250,6): error C3861:  'Combinaciones': no se encontró el identificador
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(252,6): error C3861:  'Combinaciones': no se encontró el identificador
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(272,8): error C2872:  'cout': símbolo ambiguo
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(138,3): message :  puede ser 'int cout'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\iostream(29,57): message :  o       'std::ostream std::cout'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(272,39): error C2297:  '<<': no es válido; el operando derecho es de tipo 'const char [26]'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(272,48): warning C4554:  "<<": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(272,55): error C2563:  hay una falta de correspondencia en la lista de parámetros formales
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(272,55): error C2568:  '<<': no se puede resolver la sobrecarga de funciones
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(272,55): message :  puede ser 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(274,9): error C2872:  'cout': símbolo ambiguo
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(138,3): message :  puede ser 'int cout'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\iostream(29,57): message :  o       'std::ostream std::cout'
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(274,39): error C2563:  hay una falta de correspondencia en la lista de parámetros formales
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(274,39): error C2568:  '<<': no se puede resolver la sobrecarga de funciones
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(274,39): message :  puede ser 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'

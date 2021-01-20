@@ -1,0 +1,3 @@
+﻿  GOFISH_EXPERIMENTO.cpp
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GOFISH_EXPERIMENTO\GOFISH_EXPERIMENTO.cpp(217,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  GOFISH_EXPERIMENTO.vcxproj -> C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GOFISH_EXPERIMENTO\Debug\GOFISH_EXPERIMENTO.exe

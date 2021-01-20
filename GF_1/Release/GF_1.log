@@ -1,0 +1,8 @@
+﻿  GF_1.cpp
+C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\GF_1.cpp(206,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código
+  3 of 172 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+  Generación de código finalizada
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  GF_1.vcxproj -> C:\Users\Das Sleichende Chaos\Documents\MEGA\CETYS\C++\GF_1\Release\GF_1.exe
